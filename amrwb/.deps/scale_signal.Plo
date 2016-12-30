@@ -1,0 +1,82 @@
+scale_signal.lo: \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/scale_signal.cpp \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pv_amr_wb_type_defs.h \
+ ../oscl/oscl_base.h \
+ C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stdint.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/stdint.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/_mingw.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/vadefs.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stddef.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/stddef.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_basic_op.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/normalize_amr_wb.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_basic_op_cequivalent.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_acelp.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_mem_funcs.h \
+ ../oscl/oscl_mem.h C:/msys32/mingw32/i686-w64-mingw32/include/stdlib.h \
+ C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/limits.h \
+ C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/syslimits.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/limits.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/malloc.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/string.h \
+ C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/string_s.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pv_amr_wb_type_defs.h:
+
+../oscl/oscl_base.h:
+
+C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stdint.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/stdint.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/crtdefs.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/_mingw.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_mac.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_secapi.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/vadefs.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stddef.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/stddef.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_basic_op.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/normalize_amr_wb.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_basic_op_cequivalent.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_acelp.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_mem_funcs.h:
+
+../oscl/oscl_mem.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/stdlib.h:
+
+C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/limits.h:
+
+C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/syslimits.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/limits.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/malloc.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/string.h:
+
+C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/string_s.h:
