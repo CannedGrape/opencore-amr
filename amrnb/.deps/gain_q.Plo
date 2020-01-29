@@ -4,17 +4,17 @@ gain_q.lo: ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/gain_q.cpp \
  ../oscl/oscl_base_macros.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
  ../oscl/oscl_base.h \
- C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stdint.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/stdint.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/crtdefs.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/_mingw.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/vadefs.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
- C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stddef.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/stddef.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stdint.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stddef.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gc_pred.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
@@ -47,14 +47,14 @@ gain_q.lo: ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/gain_q.cpp \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/qgain795.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/qgain475.h \
  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/set_zero.h \
- ../oscl/oscl_mem.h C:/msys32/mingw32/i686-w64-mingw32/include/stdlib.h \
- C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/limits.h \
- C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/syslimits.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/limits.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/malloc.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/string.h \
- C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/string_s.h
+ ../oscl/oscl_mem.h C:/msys64/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/syslimits.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h
 
 ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/gain_q.h:
 
@@ -66,27 +66,27 @@ gain_q.lo: ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/gain_q.cpp \
 
 ../oscl/oscl_base.h:
 
-C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stdint.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stdint.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/stdint.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdint.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/crtdefs.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/_mingw.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_mac.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/_mingw_secapi.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/vadefs.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 
-C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include/stddef.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stddef.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/stddef.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h:
 
 ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h:
 
@@ -154,18 +154,18 @@ C:/msys32/mingw32/i686-w64-mingw32/include/stddef.h:
 
 ../oscl/oscl_mem.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/stdlib.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/stdlib.h:
 
-C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/limits.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/limits.h:
 
-C:/msys32/mingw32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed/syslimits.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/syslimits.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/limits.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/limits.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/malloc.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/malloc.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/string.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/string.h:
 
-C:/msys32/mingw32/i686-w64-mingw32/include/sec_api/string_s.h:
+C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
